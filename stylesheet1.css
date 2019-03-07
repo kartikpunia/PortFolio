@@ -1,0 +1,195 @@
+ body{
+    font-family: Rosarivo;
+    margin: 0%;
+    padding:0%;
+}
+#iron-man{
+    background: url('images/iron-man-4k-illustration-tm.png');
+    height: 100%;
+    
+    
+}
+.top h1, h2{
+    font-family: Roboto Mono;
+    font-style: normal;
+    font-weight: bold;
+    line-height: normal;
+    margin: 0%;
+    margin-left: 10%
+    
+
+}
+.top h1{
+    font-size: 45px;
+    color: #EBEBEB;
+    padding-top: 20%;
+}
+.top h2{
+    font-size: 30px;
+    color: #B8B8B8;
+    margin-left: 20%;
+    margin-bottom: 20%;
+
+} 
+
+#iam{
+    text-align: center;
+    background: rgba(235, 235, 235, 0.79);
+}
+.pic img{
+    margin-top: 5%;
+}
+.pic h3{
+    
+    font-family: Reem Kufi;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 40px;
+    text-align: center;
+    color: #737373;
+}
+.pic p{
+    position: relative;    
+    font-family: Reem Kufi;
+    font-size: 24px;
+    text-align: center;
+    padding-bottom: 5%;    
+    color: #777777;
+
+}
+
+.whatido{
+    width: 100%;   
+    background-color: #ffffff;
+    text-align: center;   
+}
+
+.whatido h2{
+    text-align: center;
+    font-family: Rosarivo;    
+    font-weight: normal;    
+    font-size: 45px;
+    margin-right: 10%;     
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #636363;
+
+} 
+
+.message{
+    font-family: Rosarivo;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    text-align: center;
+    letter-spacing: 0.3em;
+    background-color: #F6F6F6;
+    padding-bottom:3%;
+
+}
+.message h2{
+    padding: 5% 10% 0% 5%;
+    font-size: 20px;
+    font-family: Rosarivo;
+    text-transform: uppercase;
+    color: #080808;
+}
+
+.message p{
+    font-size: 20px;
+    color: #313030;
+    padding: 5%;
+
+}
+
+.hl{  
+    width: 90%;  
+    border-top: 1px solid #B8B8B8;
+    margin: auto;  
+    padding-bottom: 3%;
+    
+}
+
+.messagebtn{
+    font-size: 18px;
+    font-family: Rosarivo;
+    text-transform: capitalize;
+    background-color: rgba(0, 0, 0, 0.57);
+    color: #ffffff;
+    /* width: 11%; */
+    min-width: 15%;
+    border: none;
+    text-align: center;
+    border-radius: 30px;
+    padding: .5%;
+    
+}
+button:focus {
+    outline:0;
+}
+
+.messagebtn:hover{ transform: scale( 1.1);
+
+}
+
+/* add css to stalkme class */
+
+.stalkme{
+    background-color: #ECECEC;
+    padding-bottom: .2%;
+}
+
+/* addind css to h2 stalk me */
+
+.stalkme h2{
+    font-family: Rosarivo;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0.5em;
+    text-transform: uppercase;
+    margin-right: 10%;
+    padding: 3%;
+    color: #313030;
+}
+
+/* adding css to icons in footer */
+.icon-bar{
+    
+    text-align: center;
+    margin-left: 2%;
+    
+    
+}
+
+.icon-bar a {
+    margin-right: 4%;
+    color: rgb(134, 134, 134);
+    font-size: 24px;  
+  }
+  
+
+
+  /* adding css to copyright line */
+
+.stalkme p{
+    font-family: Rosarivo;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 12px;
+    text-align: center;
+    padding-top: 3%;
+    letter-spacing: 0.2em;
+    color: #000000;
+
+}
+
+/* adding css to my insta link in copyright line */
+.punia {
+    color: #000000;
+
+}

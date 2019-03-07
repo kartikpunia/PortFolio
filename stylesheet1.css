@@ -1,4 +1,7 @@
- body{
+@media only screen and (min-width: 200px) {
+   
+  
+body{
     font-family: Rosarivo;
     margin: 0%;
     padding:0%;
@@ -192,4 +195,4 @@ button:focus {
 .punia {
     color: #000000;
 
-}
+}}
